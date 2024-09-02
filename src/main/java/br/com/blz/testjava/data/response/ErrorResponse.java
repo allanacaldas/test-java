@@ -1,7 +1,5 @@
 package br.com.blz.testjava.data.response;
 
-import org.springframework.http.HttpStatus;
-
 public class ErrorResponse {
     private final Integer httpStatusCode;
     private final String developerMessage;

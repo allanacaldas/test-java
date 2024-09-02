@@ -1,9 +1,5 @@
 package br.com.blz.testjava.data.entities;
 
-import br.com.blz.testjava.data.request.InventoryRequest;
-
-import java.util.Objects;
-
 public class Product {
     private String name;
     private Inventory inventory;
